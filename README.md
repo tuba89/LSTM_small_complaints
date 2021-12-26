@@ -10,4 +10,5 @@
 - **Accuracy = 81%**
 - **Loss = 0.11**
 - **Cofusion Matrix:**
-    ![Confusion Matrix](images/confusion.PNG)
+
+    ![Confusion Matrix](images/confusion.png)
